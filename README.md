@@ -1,6 +1,6 @@
 # GSERM 2026 Deep Learning: Fundamentals and Applications 🏔️
 
-![Course Banner](banner_small.png)
+![Course Banner](banner.png)
 
 
 Grüezi! 🖐️ 
